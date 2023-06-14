@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Home</string>
+    <string name="title_notifications">Home</string>
+    <string name="loading">loading</string>
+    <string name="error_message">There is an error. Please, try again later</string>
+    <string name="no_news">No News</string>
+    <string name="retry">Please, Try Again</string>
+</resources>
